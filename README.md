@@ -106,15 +106,8 @@ streamlit run app.py
 4. Generate translated summary
 5. Listen to generated audio output
 
----
+<img width="1137" height="906" alt="img1" src="https://github.com/user-attachments/assets/89e15c44-6099-4e2d-8f25-d4afe4400f45" />
 
-## Future Improvements
+<img width="997" height="904" alt="img2" src="https://github.com/user-attachments/assets/d66cf4e8-5ed9-4efb-b962-b252a593f3eb" />
 
-* Automatic language detection
-* Better PDF parsing
-* Speaker identification
-* OCR support for scanned PDFs
-* Advanced summarization models
-* Cloud deployment
-
----
+<img width="897" height="916" alt="img3" src="https://github.com/user-attachments/assets/7362011e-c2b1-410b-97ae-15ba9291b72a" />
