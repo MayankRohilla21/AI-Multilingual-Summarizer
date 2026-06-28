@@ -1,0 +1,9 @@
+transformers
+torch
+streamlit
+PyPDF2
+sentencepiece
+openai-whisper
+googletrans==4.0.0rc1
+gTTS
+ffmpeg-python
